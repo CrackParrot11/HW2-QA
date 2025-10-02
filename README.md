@@ -3,6 +3,9 @@
 A comprehensive JavaFX desktop application for students to ask questions, provide answers, and collaborate on learning. Built with user authentication, role-based access control, and intelligent input validation.
 
 
+Screencast Link:
+https://drive.google.com/file/d/1l8dOo7FNxf8RbSJkXChpv5yd1w36xNck/view?usp=sharing
+
 Mermaid diagram links:
 
 Class Diagram:
